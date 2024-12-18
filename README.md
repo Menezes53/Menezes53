@@ -3,8 +3,9 @@
 ## 👨‍💻 Sobre Mim
 - 🎓 Graduado(a) em **Análise e Desenvolvimento de Sistemas**.
 - 🌱 Atualmente aprendendo **Python**.
-- 👀 Interessado(a) em **desenvolvimento web** e **automação**.
+- 👀 Interessado(a) em **desenvolvimento de software** e **automação**.
 - 🥅 Objetivo de 2024: ** Conseguir um emprego na minha area de formação**.
+-    Conseguir um emprego na área de provedor de internet.
 
 
 ## 📈 Estatísticas do GitHub
