@@ -2,9 +2,9 @@
 
 ## 👨‍💻 Sobre Mim
 - 🎓 Graduado(a) em **Análise e Desenvolvimento de Sistemas**.
-- 🌱 Atualmente aprendendo **Python**.
+- 🌱 Atualmente aprendendo **NDA**.
 - 👀 Interessado(a) em **desenvolvimento de software** e **automação**.
-- 🥅 Objetivo de 2024: ** Conseguir um emprego na minha area de formação**.
+- 🥅 Objetivo de 2024: ** Conseguir um emprego na área de atendimento de um provedor de internet**.
 -    Conseguir um emprego na área de provedor de internet.
 
 
