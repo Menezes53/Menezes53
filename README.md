@@ -2,10 +2,11 @@
 
 ## 👨‍💻 Sobre Mim
 - 🎓 Graduado(a) em **Análise e Desenvolvimento de Sistemas**.
-- 🌱 Atualmente aprendendo **NDA**.
+- 🌱 Atualmente aprendendo **QA e English**.
 - 👀 Interessado(a) em **desenvolvimento de software** e **automação**.
-- 🥅 Objetivo de 2024: ** Conseguir um emprego na área de atendimento de um provedor de internet**.
--    Conseguir um emprego na área de provedor de internet.
+- 🥅 Objetivo de 2024: **Conseguir um emprego na área de atendimento de um provedor de internet**.
+- 🥅 Objetivo de 2026: **Conseguir aprender ingles - entender e falar ...Carregando...**.
+- 🥅 Objetivo de 2026: **Conseguir aprender QA - Carregando...**.
 
 
 ## 📈 Estatísticas do GitHub
